@@ -1,0 +1,8 @@
+name: CustomModelData
+version: '${project.version}'
+main: it.vicky.custommodeldata.CustomModelData
+api-version: 1.16
+authors: [ Vickyy__, Samuu__ ]
+commands:
+  modeldata:
+    description: Main command

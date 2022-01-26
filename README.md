@@ -1,10 +1,12 @@
-# CustomModelData
-### This plugin allows you to view and get CustomModelData of the item you have in your main hand via GUI
+> # CustomModelData
+> ### This plugin allows you to view and get CustomModelData of the item you have in your main hand via GUI
 
 -----
 
-> [Example](https://imgur.com/a/oHEKCNG.png)
+> ### Example
+>
+> ![Example](Example.png)
 
 -----
 
-For questions or bug reports, [@Viques](https://t.me/Viques)
+> For questions or bug reports, [@Viques](https://t.me/Viques)

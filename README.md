@@ -10,3 +10,5 @@
 -----
 
 > For questions or bug reports, [@Viques](https://t.me/Viques)
+> 
+> My organization where you can ask for plugins, textures and builds >> [@SpaceMc_Team](https://t.me/SpaceMc_Team) || [@Space_Mc_Bot](https://t.me/Space_Mc_Bot)

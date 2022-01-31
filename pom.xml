@@ -85,7 +85,7 @@
             <groupId>it.mycraft</groupId>
             <artifactId>PowerLib</artifactId>
             <version>1.2.0-TEST-12</version>
-            <scope>compile</scope>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
